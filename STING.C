@@ -1,0 +1,57 @@
+void sting(void)
+{
+	char *mus="t80o4mll64c#mnl16deco3l8al16bmsl8g\
+		   mll64c#mnl16deco2l8al16bl8msgmn\
+		   o2mll64c#mnl16deco1l8al16baa-\
+		   msl8gmnp4o3l8go2l16mldmnd#\
+		   mlo2l16emsl8o3cmlo2l16eo3msl8c\
+		   mno2l16eo3l4c.l16o4cdd#\
+		   ecdl8el16o3bo4msl8d\
+		   mncl16o3mlego4msl8cmlo2l16dmnd#\
+		   mlo2l16emsl8o3cmlo2l16eo3msl8c\
+		   mlo2l16eo3l4c.l16mlamng\
+		   f#ao4cl8el16dco3a\
+		   o4l4d.o1l16mldmnd#\
+		   mlo2l16emsl8o3cmlo2l16eo3msl8c\
+		   mno2l16eo3l4c.l16o4cdd#\
+		   ecdl8el16o3bo4msl8d\
+		   mncl16o3mlego4msl8cmnl16cd\
+		   ecdl8el16cdc\
+		   ecdl8el16cdc\
+		   ecdl8el16o3bo4l8msdmn\
+		   l5mlc.mnl16o3eff#\
+		   o3l8msgmnl16al8gl16eff#\
+		   msl8gmnl16al8gl16mseco2g\
+		   mll16abo3cdedcd\
+		   mlo2gmlo3efgagemnf\
+		   l8msgmnl16al8gl16eff#\
+		   l8msgmnl16al8gl16gaa#\
+		   bl8bl16l8bl16af#d\
+		   l5mlg.mnl16eff#\
+		   msl8gmnl16al8gl16eff#\
+		   l8msgmnl16al8gl16mleco3mng\
+		   mlabo4cdedcd\
+		   msl8mlcl16egmso5co4mngf#g\
+		   mso5l8co4mnl16ao5l8cl16o4ao5co4a\
+		   go5cel8gl16eco4g\
+		   msl8ao5cmnl16el8d\
+		   l4c..l16o4eff#\
+		   msl8gmnl16al8gl16eff#\
+		   l8gl16al8gl16mseco3g\
+		   mnabo4cdedcd\
+		   o3go4efgagef\
+		   msl8gmnl16al8gl16eff#\
+		   l8gl16al8gl16gaa#\
+		   bl8bbl16af#d\
+		   mll64gagagagagagagagagl16mneff#\
+		   l8msgl16al8gl16eff#\
+		   l8gl16al8gl16mseco3g\
+		   mnabo4cdedcd\
+		   msl8cl16mlego5mnco4gf#g\
+		   o5msl8co4mnl16amlo5l8cl16o4ao5\
+		   co4ago5cel8gl16eco4g\
+		   l8msao5cmnl16el8dl16mlc\
+		   l4cl8c";
+
+	play(mus);
+}

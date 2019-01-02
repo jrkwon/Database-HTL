@@ -1,0 +1,127 @@
+
+                         ∑°¥°ã° ãiç©
+
+
+[–eúaœaù°] âAØ°ÃeµA ¥·òÂ¶Ö∑° ∑°¥°ã° ãiç©∑i ≥aâ° Øºîaâ°
+–a≠a¨· ∑°¥°ã° ãiç©∑i Ω¢Ω¢ ø∏¥·¨·, [–eúaœaù°]µA¨· ≥i ÆÅ
+∑∂ï°ù¢ â°¡a¨· µ©ü≥ì°îa.
+
+
+(1) IFONTLIB.ZIPµA ói¥·∑∂ìe ãi∑°üq
+    HANIFONT.LIB    ãiç© úa∑°ßaú·ü°
+    HANFONT.H       ¬ÅàañE ∑°¥°ã° ãiç©∑i ¨Åù° ówù¢–e
+                    [–eúa] 2.3∂w —Aî·—¡∑©
+    HANIYG.C        –eãi ãiç© ówù¢∑i ∂·–e —¡∑©
+    IFONTLIB.DOC    ª°ãq ∑° —¡∑©
+
+(2) ãiç© •°ã°
+    HANIYG    àaêaîaúa†a§a¨a¥a∏a¿aƒa»aÃa–a
+    HGRIYG    ‘Ä‘Ç‘Ö‘é‘ó‘ô‘®‘≤‘«‘¥‘€‘‡‘˙‘ˇ
+    KSSIYG    ŸƒŸjŸÌŸÓŸÔ⁄A⁄Q€@€A€¿‹8›A›¢ﬁ´
+    ENGIYG    12345ABCDEabcde-+_=|\/?<[{&*
+    EGRIYG    ¥aØa«°≈°óa 127§Â ∑°“Å∑Å àı∑aù° ∑°¥°ã°
+              µA¨·ìe ≥i ÆÅ ¥Ùîa.
+
+    ∫Å∑Å‘ì  KSSIYGù° ≥e •°ã°ìe ∑°¥°ã° ãiÀiµA¨· •¡¥° •°∑•îa.
+
+
+(3) ≥aìe §w§Û
+
+  1) —Aî·—¡∑© ∏˜ü°–aã°
+     HANFONT.Hüi [–eúa] —Aî·—¡∑©∑° ∑∂ìe ó°ùB…°ü°ù° µ´ã•îa.
+
+   ‘⁄‘ƒ‘ƒ‘ƒ‘ƒ‘ƒ‘ƒ‘ø ≥aã°Ø∞îa
+   ‘≥ –eãi  Œa∫Ö ‘√‘ƒ‘ƒ‘ƒ‘ƒ‘ö HANFONT.HµA¨· HANIYG, haniyg
+   ‘¿‘ƒ‘ƒ‘ƒ‘ƒ‘ƒ‘ƒ‘Ÿ           àa ói¥·àe ∫â∑i ª°∂Öîa.
+                              (42, 302, 314§ÂºÅ ∫â)
+   ‘⁄‘ƒ‘ƒ‘ƒ‘ƒ‘ƒ‘ƒ‘ø ≥aã°Ø∞îa
+   ‘≥ –eãiãaúÅœ¢ ‘√‘ƒ‘ƒ‘ƒ‘ƒ‘ö HANFONT.HµA¨· HGRIYGàa ói¥·àe
+   ‘¿‘ƒ‘ƒ‘ƒ‘ƒ‘ƒ‘ƒ‘Ÿ           ∫â∑i ª°∂Öîa. (67, 345§ÂºÅ ∫â)
+   ‘⁄‘ƒ‘ƒ‘ƒ‘ƒ‘ƒ‘ƒ‘ø ≥aã°Ø∞îa
+   ‘≥ KSÀbÆÅ¢Ö∏a ‘√‘ƒ‘ƒ‘ƒ‘ƒ‘ö HANFONT.HµA¨· KSSIYGàa ói¥·àe
+   ‘¿‘ƒ‘ƒ‘ƒ‘ƒ‘ƒ‘ƒ‘Ÿ           ∫â∑i ª°∂Öîa. (82, 360§ÂºÅ ∫â)
+   ‘⁄‘ƒ‘ƒ‘ƒ‘ƒ‘ƒ‘ƒ‘ø ≥aã°Ø∞îa
+   ‘≥ µw¢Ö  Œa∫Ö ‘√‘ƒ‘ƒ‘ƒ‘ƒ‘ö HANFONT.HµA¨· ENGIYGàa ói¥·àe
+   ‘¿‘ƒ‘ƒ‘ƒ‘ƒ‘ƒ‘ƒ‘Ÿ           ∫â∑i ª°∂Öîa. (53, 311§ÂºÅ ∫â)
+   ‘⁄‘ƒ‘ƒ‘ƒ‘ƒ‘ƒ‘ƒ‘ø ≥aã°Ø∞îa
+   ‘≥ µw¢ÖãaúÅœ¢ ‘√‘ƒ‘ƒ‘ƒ‘ƒ‘ö HANFONT.HµA¨· EGRIYGàa ói¥·àe
+   ‘¿‘ƒ‘ƒ‘ƒ‘ƒ‘ƒ‘ƒ‘Ÿ           ∫â∑i ª°∂Öîa. (77, 355§ÂºÅ ∫â)
+
+    ∫Å∑Å‘ì  ∑°âµµA ≥e ∫â§Â—°ìe îaüe ∫â∑i ª°∂Å°e §aéÈ ÆÅ ∑∂∑a£aù°
+            ç¢ –Åîw ãi∏aàa ∑∂ìeª° —¬∑•–aâ° ª°∂Öîa.
+
+  2) úa∑°ßaú·ú· ∏˜ü°–aã°
+     HANIFONT.LIBüi [–eúa] úa∑°ßaú·ü° —¡∑©∑° ∑∂ìe ó°ùB…°ü°ù°
+     µ´ã•îa.
+
+   ‘⁄‘ƒ‘ƒ‘ƒ‘ƒ‘ƒ‘ƒ‘ø ≥aã°Ø∞îa
+   ‘≥ –eãi  Œa∫Ö ‘√‘ƒ‘ƒ‘ƒ‘ƒ‘ö TLIB HANIFONT /E -HANIYG‘˙
+   ‘¿‘ƒ‘ƒ‘ƒ‘¬‘ƒ‘ƒ‘Ÿ ≥aâ°Øºîa
+           ‘¿‘ƒ‘ƒ‘ƒ‘ƒ‘ƒ‘ƒ‘ƒ‘ö ‹Á TCC -c HANIYAGI.C‘˙
+                                (BCC -c HANIYAGI.C‘˙)
+                              ‹Ë TLIB HANOUTx /E +HANIYAGI‘˙
+   ‘⁄‘ƒ‘ƒ‘ƒ‘ƒ‘ƒ‘ƒ‘ø ≥aã°Ø∞îa
+   ‘≥ –eãiãaúÅœ¢ ‘√‘ƒ‘ƒ‘ƒ‘ƒ‘ö TLIB HANIFONT /E -HGRIYG‘˙
+   ‘¿‘ƒ‘ƒ‘ƒ‘ƒ‘ƒ‘ƒ‘Ÿ
+   ‘⁄‘ƒ‘ƒ‘ƒ‘ƒ‘ƒ‘ƒ‘ø ≥aã°Ø∞îa
+   ‘≥ KSÀbÆÅ¢Ö∏a ‘√‘ƒ‘ƒ‘ƒ‘ƒ‘ö TLIB HANIFONT /E -KSSIYG‘˙
+   ‘¿‘ƒ‘ƒ‘ƒ‘ƒ‘ƒ‘ƒ‘Ÿ
+   ‘⁄‘ƒ‘ƒ‘ƒ‘ƒ‘ƒ‘ƒ‘ø ≥aã°Ø∞îa
+   ‘≥ µw¢Ö  Œa∫Ö ‘√‘ƒ‘ƒ‘ƒ‘ƒ‘ö TLIB HANIFONT /E -ENGIYG‘˙
+   ‘¿‘ƒ‘ƒ‘ƒ‘ƒ‘ƒ‘ƒ‘Ÿ
+   ‘⁄‘ƒ‘ƒ‘ƒ‘ƒ‘ƒ‘ƒ‘ø ≥aã°Ø∞îa
+   ‘≥ µw¢ÖãaúÅœ¢ ‘√‘ƒ‘ƒ‘ƒ‘ƒ‘ö TLIB HANIFONT /E -EGRIYG‘˙
+   ‘¿‘ƒ‘ƒ‘ƒ‘ƒ‘ƒ‘ƒ‘Ÿ
+
+  3) úa∑°ßaú·ü° –s√°ã°
+
+    * ∑°¥°ã° ãiç©†e ≥aâ° Øº∑e âw∂Å
+      œaù°πBÀa —¡∑©µA HANFONT.LIBîÅØ• HANIFONT.LIBüi ≥aâ°
+      ƒÒÃa∑©, ü∑«a–eîa.
+    * [–eúa] ∂•úÅ∑Å ãiç©µA ∑°¥°ã° ãiç©∑i ¬Åàa–aâ° Øº∑e âw∂Å
+      ‹Á TLIB HANFONT.LIB /E +HANIFONT.LIB‘˙
+      ‹Ë œaù°πBÀa —¡∑©µA HANFONT.LIBüi ≥aâ° ƒÒÃa∑©, ü∑«a–eîa.
+
+  4) ¨a∂wµÅ(?)
+
+    #include <hanfont.h>
+
+
+    void main(void)
+    {
+        ....
+
+        inithanlib(STDMODE, HANDETECT, NULL, NULL);
+
+        registerhanfont(HANIYG);
+        registerhgrfont(HGRIYG);
+        registerkssfont(KSSIYG);
+        registerengfont(ENGIYG);
+        registeregrfont(EGRIYG);
+
+        ....
+    }
+
+    ô°ìe
+
+    void main(void)
+    {
+        ....
+
+        inithanlib(STDMODE, HANDETECT, HANIYG, ENGIYG);
+
+        registerhgrfont(HGRIYG);
+        registerkssfont(KSSIYG);
+        registeregrfont(EGRIYG);
+
+        ....
+    }
+
+
+ ¿qâ°‘ì  registerhanfont, registerengfontüi ®Ö êa†·ª°ìe
+         œ©∂a¥Ù∑a°e ówù¢–aª° ¥g¥aï° ñEîa.
+
+
+ ¿qâ°‘ì  ãiç©∑i Œâãaü±µA Õ°–qØ°«°ª° ¥gâ° ãiç© —¡∑©∑i
+         ¶âú·µ°â° Øº∑a°e ¥|µA µ©ü°ìe IFONT.ZIP∑i §h∑a°e
+         ñEîa.

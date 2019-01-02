@@ -1,0 +1,17 @@
+sot  (sot.h)
+soth (sot.h)
+sotv (sot.h)
+sota (sot.h)
+sots (sot.h)
+sotm (sot.h)
+sotg (sot.h)
+sotl (sot.h)
+play
+
+hanwindw.c
+hanins.lib
+hanouts.lib
+hanlink.lib
+handev.lib
+hanfont.lib
+

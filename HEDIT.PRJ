@@ -1,0 +1,17 @@
+hedit.c
+
+hanedit.c(hanedit.h)
+hanhanja.c(hanhanja.h)
+khinput.c(khinput.h)
+hanhelp.c(hanhelp.h)
+khgetkey.c
+khauto2.c
+khauto3.c
+hanwindw.c
+hanerro2.c
+hanoutl.lib
+haninl.lib
+hanlink.lib
+handev.lib
+hanfont.lib
+
